@@ -3,31 +3,32 @@
 
 ***
 
-## Contact Information
-- **Email:** 
+## ***Contact Information***
+- **Email:** knsqtx@gmail.com
 - **GitHub:** [@arthur9morgan](https://github.com/arthur9morgan)
-- **Discord:** 
+- **Discord:** syracuse#4443
 
 ***
 
-## Summary
+## ***Summary***
 I am a motivated junior frontend developer with a desire to work on interesting projects. I am looking for an opportunity to join a team where I can contribute to projects and grow as a professional.
 
 ***
 
-## Languages
+## ***Languages***
+
 English - C1
 
 ***
 
-## Skills
+## ***Skills***
 * **Web-Development:** HTML, CSS, JavaScript, Sass, TypeScript
 * **Version Control:** Git
 * **Graphics:** Photoshop, Figma
 
 ***
 
-## Code example
+## ***Code example***
 ```javascript
 function squareDigits(num) {
   let numStr = num.toString();
