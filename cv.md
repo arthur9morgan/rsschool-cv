@@ -1,5 +1,5 @@
 # Arthur Morgan
-![]()
+![redDeadRedemption](img/pfp.jpeg)
 
 ***
 
@@ -21,9 +21,9 @@ English - C1
 ***
 
 ## Skills
-**Web-Development:** HTML, CSS, JavaScript, Sass, TypeScript
-**Version Control:** Git
-**Graphics:** Photoshop, Figma
+* **Web-Development:** HTML, CSS, JavaScript, Sass, TypeScript
+* **Version Control:** Git
+* **Graphics:** Photoshop, Figma
 
 ***
 
